@@ -1,0 +1,71 @@
+.video-upload-modal-container {
+  background-color: #383838;
+}
+
+.upload-video-title {
+  color: #fff;
+  font-weight: 300;
+}
+
+.cross-icon {
+  color: #fff;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.form-input-style {
+  color: #a0a0a0;
+  background-color: #383838;
+  border-radius: 5px;
+  font-weight: 300;
+  border-color: #a0a0a0;
+  border-width: 2px;
+}
+
+.form-input-style:focus {
+  background-color: #383838;
+  color: #fff;
+  font-weight: 300;
+  border-radius: 5px;
+  caret-color: #fff;
+  border-color: #a0a0a0;
+  box-shadow: none;
+  border-width: 2px;
+}
+
+.select-option-style {
+  color: #fff;
+  font-weight: 300;
+}
+
+.form-label-style {
+  color: #a0a0a0;
+  font-weight: 300;
+}
+
+.form-subtext-style {
+  color: #a0a0a0;
+  font-weight: 300;
+  font-size: 0.75rem;
+}
+
+.upload-video-button {
+  background-color: #ee1520;
+  color: #fff;
+  font-weight: 400;
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 0.5rem;
+  white-space: nowrap;
+  font-size: 0.75rem;
+}
+
+.cancel-button {
+  background-color: #383838;
+  color: #fff;
+  font-weight: 400;
+  border-color: #383838;
+  border-width: 0px;
+  padding: 0.5rem;
+  font-size: 0.75rem;
+}

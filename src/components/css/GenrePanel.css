@@ -1,0 +1,45 @@
+.genre-panel-container {
+  background-color: #202020;
+}
+
+.default-text-style {
+  font-size: 1.05rem;
+  font-weight: 300;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.selected-text-style {
+  font-size: 1.05rem;
+  font-weight: 400;
+  cursor: pointer;
+  color: #586069;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+}
+
+.dropdown-button {
+  white-space: nowrap;
+  font-size: 1.05rem;
+  font-weight: 400;
+  cursor: pointer;
+  color: #586069;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+}
+
+.dropdown-menu {
+  background-color: #2E2E2E;
+}
+
+.sort-option {
+  color: white;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.sort-option:hover {
+    background-color: #474747;
+}

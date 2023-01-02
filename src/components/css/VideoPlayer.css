@@ -1,0 +1,67 @@
+.video-player-container {
+  background-color: #181818;
+}
+
+.video-player-subcontainer {
+  border-bottom-width: 1px;
+  border-bottom-color: #d8d8d880;
+  border-bottom-style: solid;
+}
+
+.video-player {
+  height: 70vh;
+}
+
+.iframe-style {
+  height: 100%;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.video-player-title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.video-player-info {
+  color: #c2c2c2;
+  font-weight: 300;
+  font-size: 0.85rem;
+}
+
+.circle-badge {
+  color: #c2c2c2;
+  font-weight: bold;
+  font-size: 0.85rem;
+}
+
+.up-vote-button {
+  border-radius: 20px;
+  white-space: nowrap
+}
+
+.down-vote-button {
+  background-color: #2f2f2f;
+  border-radius: 20px;
+  white-space: nowrap
+}
+
+.down-vote-button:hover {
+  background-color: #2f2f2fb0;
+}
+
+.up-thumbs-icon {
+  color: #FFFFFF;
+}
+
+.down-thumbs-icon {
+  color: #797979;
+}
+
+.button-text {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+

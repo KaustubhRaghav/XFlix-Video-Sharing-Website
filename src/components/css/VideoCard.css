@@ -1,0 +1,15 @@
+.video-card-container {
+  background-color: #181818;
+}
+
+.video-title {
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.video-release-date {
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFF;
+}

@@ -1,0 +1,59 @@
+.header-container {
+  background-color: #202020;
+  padding: 1rem 1rem;
+}
+
+.logo-x {
+  color: #ee1520;
+  font-weight: 400;
+  margin-right: 0.2rem;
+}
+
+.logo-flix {
+  color: #e1e4e8;
+  font-weight: 500;
+}
+
+.input-group {
+  width: 40%;
+}
+
+.form-control {
+  border-color: #444d56;
+  border-radius: 0;
+  border-width: 2px;
+  background-color: #121212;
+  font-weight: bold;
+  color: #69757D;
+}
+
+.form-control:focus {
+  border-color: #444d56;
+  border-radius: 0;
+  border-width: 2px;
+  background-color: #121212;
+  box-shadow: none;
+  caret-color: #444d56;
+  color: #69757D;
+  font-weight: bold;
+}
+
+.input-group-text {
+  border-color: #444d56;
+  border-radius: 0;
+  border-width: 2px;
+  background-color: #313131;
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-icon {
+  color: #606060;
+}
+
+.upload-button {
+  padding: 0.5rem 1.5rem;
+  background-color: #4CA3FC;
+}
